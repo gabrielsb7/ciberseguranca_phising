@@ -1,4 +1,5 @@
 🔐 Laboratório de Phishing — SEToolkit
+
 📌 Sobre o projeto
 
 Este projeto foi desenvolvido como parte de um desafio prático de Cibersegurança da DIO, com o objetivo de compreender, em um ambiente controlado, como ataques de phishing podem utilizar páginas falsas para induzir usuários a fornecer informações sensíveis.
@@ -20,9 +21,9 @@ Entender os riscos associados ao fornecimento de credenciais em páginas não co
 
 🛠️ Tecnologias e ferramentas
 
-Kali Linux
+  Kali Linux
 
-SEToolkit
+  SEToolkit
 
 
 🔎 SEToolkit
